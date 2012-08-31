@@ -28,6 +28,6 @@ Program Controls:
    - Click and hold left mouse button to rotate
    - Click and hold right mouse button to zoom
 
-   ![](http://github.com/alyssaBiasi/render_modes/raw/master/img/Sphere.png)
+   ![](Sphere.png)
    
-   ![](http://github.com/alyssaBiasi/render_modes/raw/master/img/torus.png)
+   ![](torus.png)
