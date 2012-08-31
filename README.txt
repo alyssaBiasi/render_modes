@@ -27,3 +27,8 @@ Program Controls:
    - Up and down arrows to increase/decrease number of lights
    - Click and hold left mouse button to rotate
    - Click and hold right mouse button to zoom
+
+
+   ![Screen shot 1](alyssaBiasi.github.com/render_modes/Sphere.png)
+   
+   ![Screen shot 2](alyssaBiasi.github.com/render_modes/torus.png)
