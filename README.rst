@@ -2,7 +2,7 @@
 Real Time Rendering Assignment 1 Semester 2 2012
 ------------------------------------------------
 
-.. image:: Torus.png
+.. image:: torus.png
     :scale: 50%
     :align: center
     :alt: Torus.
