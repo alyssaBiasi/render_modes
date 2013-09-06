@@ -1,13 +1,30 @@
+------------------------------------------------
 Real Time Rendering Assignment 1 Semester 2 2012
+------------------------------------------------
+
+.. image:: Torus.png
+    :scale: 50%
+    :align: center
+    :alt: Torus.
+
+.. image:: Sphere.png
+    :scale: 50%
+    :align: center
+    :alt: Sphere.
 
 Submitted by:
-   Alyssa Biasi
-   Christopher Stojanovic
+   Alyssa Biasi and Christopher Stojanovic
 
-INSTRUCTIONS:
-"make all" to compile, "make clean" to remove objects and executable
+Instructions
+------------
+``make all`` to compile
 
-Program Controls:
+``./render`` to run
+
+``make clean`` to remove objects and executable
+
+Program Controls
+----------------
    - 'z' to draw a torus (enabled by default)
    - 'x' to draw a sphere
    - 'c' to draw a grid
@@ -27,7 +44,3 @@ Program Controls:
    - Up and down arrows to increase/decrease number of lights
    - Click and hold left mouse button to rotate
    - Click and hold right mouse button to zoom
-
-   ![](Sphere.png)
-   
-   ![](torus.png)
